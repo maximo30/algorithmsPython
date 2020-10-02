@@ -3,6 +3,9 @@ from fractions import Fraction
 from fractions import gcd
 import unittest
 
+# date: October 1, 2020
+# @author: Maximiliam Gierschmann
+#
 # Time Complexity: O(n^3)
 #  Taking into consideration that what takes
 #  O(n^3) is the call to np.linalg.inv in the worst case scenario
