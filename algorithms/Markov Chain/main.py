@@ -104,7 +104,7 @@ def solution(m):
 
     return finalResult
 
-class TestExpandingNebula(unittest.TestCase):
+class TestMarkov(unittest.TestCase):
 
     def testBaseCase(self):
         arr = [
