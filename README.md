@@ -1,5 +1,3 @@
-# Notebooks
-The purpose of this folder is to save some of my ML (Jupyter) experiments. Python notebooks and other scripts.
 # Algorithms
 The pupose of this folder is to document useful python algorithms, with their respective Space/Time complexity analysis. 
 ## Math
